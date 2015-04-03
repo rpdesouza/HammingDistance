@@ -1,0 +1,2 @@
+# HammingDistance
+Hamming distance algorithm
